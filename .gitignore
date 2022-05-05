@@ -1,0 +1,9 @@
+old_FrontEnd/node_modules/
+old_MongoDB-Backend/node_modules/
+
+SkyManager-Backend/node_modules
+SkyManager-Backend/Test-DbData/
+SkyManager-Backend/Test-DbConf/
+backup
+MongoData/
+.DS_Store

@@ -1,0 +1,8 @@
+version: "3.2"
+services:
+  frontend:
+    build: ./skymanager_flutter/
+    ports:
+      - 80:80
+    environment:
+      BACKEND_URL: "http://localhost:8451"
